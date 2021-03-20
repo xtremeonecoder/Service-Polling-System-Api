@@ -66,8 +66,8 @@ A simple RESTful API for managing different web services smoothly in large-scale
 
 ## How to install the application:
 
-1. Install node.js on your machine.
-2. Install MongoDB Driver.
+1. Install **_node.js_** on your machine.
+2. Install **_MongoDB Driver_** on your machine.
 3. Clone the repository, then keep the folder somewhere in you machine.
 4. Rename the directory as something like - **_service-poller-api_**.
 5. CD to the directory of Backend API **_service-poller-api_**.
@@ -77,10 +77,10 @@ A simple RESTful API for managing different web services smoothly in large-scale
 9. Run **_service-poller-api_** using **_terminal_** or **_command-line_** window:
 
    - Using `npm start` or `node index.js`.
-   - Using nodemon `nodemon index.js` (you have to install nodemon npm package).
+   - Using nodemon `nodemon index.js` (you have to install **_nodemon_** npm package).
 
-10. CD to the directory of Frontend Application, for instance - **_service-poller-frontend_**.
-11. Or open **_terminal_** or **_command-line_** window from the project root directory.
-12. Run **_service-poller-frontend_** using **_terminal_** or **_command-line_** window (command: `npm start`).
-13. **_http://localhost/4000_** is the url for exploring the backend api.
+10. **_http://localhost/4000_** is the url for exploring the backend api.
+11. CD to the directory of Frontend Application, for instance - **_service-poller-frontend_**.
+12. Or open **_terminal_** or **_command-line_** window from the project root directory.
+13. Run **_service-poller-frontend_** using **_terminal_** or **_command-line_** window (command: `npm start`).
 14. **_http://localhost/3000_** is the url for exploring the frontend application.
