@@ -1,0 +1,7 @@
+{
+  "port": 4000,
+  "authHeaderName": "x-auth-token",
+  "jwtPrivateKey": "defaultPrivateKey",
+  "database": "mongodb://localhost/krydb",
+  "requiresAuth": true
+}
